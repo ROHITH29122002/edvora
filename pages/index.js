@@ -3,7 +3,6 @@ import RideList from "../components/RideList"
 import styles from '../styles/home.module.css'
 
 export default function Home({data,user}) {
-
   return (
     <>
        <div className={styles.navbar}>
