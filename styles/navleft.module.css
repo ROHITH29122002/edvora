@@ -1,0 +1,17 @@
+.nav_left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}
+
+.user_name:hover {
+  border-bottom: 2px solid rgb(28, 204, 51);
+}
+
+.user_image {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  margin-left: 1rem;
+}
