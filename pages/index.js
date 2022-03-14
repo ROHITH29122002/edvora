@@ -1,6 +1,6 @@
 import Navleft from "../components/Navleft"
 import RideList from "../components/RideList"
-import styles from '../styles/home.module.css'
+import styles from '../styles/Home.module.css'
 
 export default function Home({data,user}) {
   return (
